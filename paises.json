@@ -1,0 +1,76 @@
+{
+  "PAISES": [
+    {
+      "PAIS": "BRA",
+      "URL": "https://cspinheiro.github.io/bra2.json"
+    },
+    {
+      "PAIS": "FRA",
+      "URL": "https://henricobela.github.io/fra.json"
+    },
+    {
+      "PAIS": "AGO",
+      "URL": "https://the-icaro.github.io/ago.json"
+    },
+    {
+      "PAIS": "ITA",
+      "URL": "https://isabellitankian.github.io/ita.json"
+    },
+    {
+      "PAIS": "AUS",
+      "URL": "https://cesarnorena.github.io/aus.json"
+    },
+    {
+      "PAIS": "IND",
+      "URL": "https://eduardomatoss.github.io/ind.json"
+    },
+    {
+      "PAIS": "MNG",
+      "URL": "https://emgabrielly.github.io/mng.json"
+    },
+    {
+      "PAIS": "CAN",
+      "URL": "https://educunhamxk.github.io/CAN.json"
+    },
+    {
+      "PAIS": "GRC",
+      "URL": "https://dalcol99.github.io/grc.json"
+    },
+    {
+      "PAIS": "HUN",
+      "URL": "https://guhdalla.github.io/hun.json"
+    },
+    {
+      "PAIS": "ARG",
+      "URL": "https://kndhvh.github.io/arg.json"
+    },
+    {
+      "PAIS": "IRL",
+      "URL": "https://victorswory.github.io/irl.json"
+    },
+    {
+      "PAIS": "NPL",
+      "URL": "rodrigofer89.github.io/npl.json"
+    },
+    {
+      "PAIS": "IRQ",
+      "URL": "https://felps2003.github.io/irq.json"
+    },
+    {
+      "PAIS": "BEL",
+      "URL": "https://rafael-pereira-silva.github.io/bel.json"
+    },
+    {
+      "PAIS": "NIC",
+      "URL": "https://rafael-pereira-silva.github.io/bel.json"
+    },
+    {
+      "PAIS": "PRT",
+      "URL": "https://0verthrive.github.io/prt.json"
+    },
+    {
+      "PAIS": "MDV",
+      "URL": "https://jluizgomes.github.io/mdv.json"
+    }
+  ]
+}
